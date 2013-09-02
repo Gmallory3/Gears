@@ -16,6 +16,7 @@ public class MainMenu extends GState{
     @Override
     public void update() {
         super.update();
+        int otherStuff = 90;
     }
 
     @Override
